@@ -4411,42 +4411,6 @@
   },
   {
     "slide": 246,
-    "titulo": "A través de una metodología iterativa se permitirá calibrar continuamente el plan base",
-    "etiqueta": null,
-    "titulo_corto": "A través de una metodología iterativa se permitirá calibrar…",
-    "tipo_plantilla": null,
-    "n_graficos_total": 0,
-    "n_graficos_nativos": 0,
-    "n_graficos_dibujados_heuristico": 0,
-    "n_tablas": 0,
-    "n_imagenes": 2,
-    "n_cajas_texto": 10,
-    "n_shapes_total": 24,
-    "archivo": "maestro.pptx",
-    "slide_id": 2147483152,
-    "n_graficos_herramienta_tag": 0,
-    "thumb": "thumbs/272.png"
-  },
-  {
-    "slide": 247,
-    "titulo": "… y no es posible sostener ventajas competitivas por un período de tiempo indefinido",
-    "etiqueta": "Ejemplo",
-    "titulo_corto": "Ejemplo",
-    "tipo_plantilla": "Texto",
-    "n_graficos_total": 0,
-    "n_graficos_nativos": 0,
-    "n_graficos_dibujados_heuristico": 0,
-    "n_tablas": 0,
-    "n_imagenes": 0,
-    "n_cajas_texto": 16,
-    "n_shapes_total": 43,
-    "archivo": "maestro.pptx",
-    "slide_id": 2147483153,
-    "n_graficos_herramienta_tag": 0,
-    "thumb": "thumbs/273.png"
-  },
-  {
-    "slide": 248,
     "titulo": "Empresas referentes en reducción de costos, han incorporado la metodología ZBB para lograr ahorros de hasta el 35% de las partidas iniciales",
     "etiqueta": null,
     "titulo_corto": "Empresas referentes en reducción de costos, han incorporado…",
@@ -4464,7 +4428,7 @@
     "thumb": "thumbs/274.png"
   },
   {
-    "slide": 249,
+    "slide": 247,
     "titulo": "Para maximizar el impacto del programa y asegurar la sostenibilidad del esfuerzo se deben tener seis consideraciones clave",
     "etiqueta": null,
     "titulo_corto": "Para maximizar el impacto del programa y asegurar la…",
@@ -4482,7 +4446,7 @@
     "thumb": "thumbs/275.png"
   },
   {
-    "slide": 250,
+    "slide": 248,
     "titulo": "Para que un proceso ZBB sea exitoso debe considerar dos pilares clave",
     "etiqueta": null,
     "titulo_corto": "Para que un proceso ZBB sea exitoso debe considerar dos…",
@@ -4500,7 +4464,7 @@
     "thumb": "thumbs/276.png"
   },
   {
-    "slide": 251,
+    "slide": 249,
     "titulo": "Insumos de oficina: descomposición del gasto",
     "etiqueta": null,
     "titulo_corto": "Insumos de oficina: descomposición del gasto",
@@ -4518,7 +4482,7 @@
     "thumb": "thumbs/277.png"
   },
   {
-    "slide": 252,
+    "slide": 250,
     "titulo": "El flujo del productos interactúa permanentemente con el proceso de planificación, desde la producción animal hasta la entrega en cliente",
     "etiqueta": null,
     "titulo_corto": "El flujo del productos interactúa permanentemente con el…",
@@ -4536,7 +4500,7 @@
     "thumb": "thumbs/278.png"
   },
   {
-    "slide": 253,
+    "slide": 251,
     "titulo": "62% Reducción de costos.",
     "etiqueta": "No exhaustivo",
     "titulo_corto": "No exhaustivo",
@@ -4554,7 +4518,7 @@
     "thumb": "thumbs/279.png"
   },
   {
-    "slide": 254,
+    "slide": 252,
     "titulo": "Aportando capacidad analítica con una visión de negocio, cuestionándose el \u000bstatus quo en la realidad de cada cliente",
     "etiqueta": null,
     "titulo_corto": "Aportando capacidad analítica con una visión de negocio…",
@@ -4572,7 +4536,7 @@
     "thumb": "thumbs/280.png"
   },
   {
-    "slide": 255,
+    "slide": 253,
     "titulo": "El Modelo de Operaciones Matrix contempla seis dimensiones de generación de impacto, cada una con diversos productos",
     "etiqueta": "Preliminar",
     "titulo_corto": "Preliminar",
@@ -4590,7 +4554,7 @@
     "thumb": "thumbs/281.png"
   },
   {
-    "slide": 256,
+    "slide": 254,
     "titulo": "El plan estratégico considerará profundizar las acciones e impacto del escenario que gatillen ajustes al plan de entrada a Perú…",
     "etiqueta": "Estrategia de entrada",
     "titulo_corto": "Estrategia de entrada",
@@ -4608,7 +4572,7 @@
     "thumb": "thumbs/282.png"
   },
   {
-    "slide": 257,
+    "slide": 255,
     "titulo": "En Matrix Consulting conocemos los desafíos de la industria frutícola en Chile y tenemos las capacidades que permiten el mejor abordaje",
     "etiqueta": null,
     "titulo_corto": "En Matrix Consulting conocemos los desafíos de la industria…",
@@ -4626,7 +4590,7 @@
     "thumb": "thumbs/283.png"
   },
   {
-    "slide": 258,
+    "slide": 256,
     "titulo": "Kraft Heinz ha vivido un proceso de transformación digital acelerado, el cual ha tenido que realinear en los últimos años",
     "etiqueta": null,
     "titulo_corto": "Kraft Heinz ha vivido un proceso de transformación digital…",
@@ -4644,7 +4608,7 @@
     "thumb": "thumbs/284.png"
   },
   {
-    "slide": 259,
+    "slide": 257,
     "titulo": "Contar con las competencias clave dentro del equipo es fundamental para lograr habilitar e impulsar la transformación",
     "etiqueta": null,
     "titulo_corto": "Contar con las competencias clave dentro del equipo es…",
@@ -4662,7 +4626,7 @@
     "thumb": "thumbs/285.png"
   },
   {
-    "slide": 260,
+    "slide": 258,
     "titulo": "Para abordar este cambio, se deberá desarrollar un proceso de tres etapas con iniciativas inmediatas y de mediano plazo",
     "etiqueta": "No exhaustivo",
     "titulo_corto": "No exhaustivo",
@@ -4680,7 +4644,7 @@
     "thumb": "thumbs/286.png"
   },
   {
-    "slide": 261,
+    "slide": 259,
     "titulo": "En este contexto, es clave contar con una organización ágil y que maximice el potencial y logre ventajas competitivas para el futuro",
     "etiqueta": "No exhaustivo",
     "titulo_corto": "No exhaustivo",
@@ -4698,7 +4662,7 @@
     "thumb": "thumbs/287.png"
   },
   {
-    "slide": 262,
+    "slide": 260,
     "titulo": "En el desarrollo e implementación de las iniciativas, MatrixConsulting y la compañía van variando sus roles",
     "etiqueta": null,
     "titulo_corto": "En el desarrollo e implementación de las iniciativas, Matrix…",
@@ -4714,23 +4678,5 @@
     "slide_id": 1351,
     "n_graficos_herramienta_tag": 0,
     "thumb": "thumbs/id_1351.png"
-  },
-  {
-    "slide": 263,
-    "titulo": "Las diferencias regionales en camas por habitante revelan territorios más saturados y otros con mayor oportunidad de crecimiento",
-    "etiqueta": null,
-    "titulo_corto": "Las diferencias regionales en camas por habitante revelan te…",
-    "tipo_plantilla": "Sin clasificar (nueva)",
-    "n_graficos_total": 0,
-    "n_graficos_nativos": 0,
-    "n_graficos_dibujados_heuristico": null,
-    "n_tablas": 0,
-    "n_imagenes": 0,
-    "n_cajas_texto": 56,
-    "n_shapes_total": 122,
-    "archivo": "maestro.pptx",
-    "slide_id": 2147483640,
-    "n_graficos_herramienta_tag": 0,
-    "thumb": "thumbs/id_2147483640.png"
   }
 ]
